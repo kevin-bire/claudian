@@ -65,6 +65,11 @@
       "src/**/*.ts",
       "!src/**/*.d.ts"
     ],
+    "coverageThreshold": {
+      "global": {
+        "lines": 70
+      }
+    },
     "verbose": true
   }
 }
