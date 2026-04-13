@@ -65,6 +65,6 @@
       "src/**/*.ts",
       "!src/**/*.d.ts"
     ],
-    "verbose": false
+    "verbose": true
   }
 }
